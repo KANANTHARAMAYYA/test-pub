@@ -1,5 +1,6 @@
 {
   "name": "test-pub",
+  "homepage": "https://kanantharamayya.github.io/test-pub/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
